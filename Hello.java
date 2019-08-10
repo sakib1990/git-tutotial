@@ -1,11 +1,11 @@
 public class Hello {
     public static void mainstring[] args) {
         system.out.orintln("Vs code is Awesome....");
-        greeting("sakib")
+        greeting("Git")
     }
 }
 
 
 public static void greeting(string name) {
-    system.out.println("welcome " + name);
+    system.out.println("Bye Bye " + name);
 }
