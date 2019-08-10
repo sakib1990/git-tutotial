@@ -3,9 +3,15 @@ public class Hello {
         system.out.orintln("Vs code is Awesome....");
         greeting("sakib")
     }
-}
-
 
 public static void greeting(string name) {
     system.out.println("welcome " + name);
+}
+
+
+
+public static int sqr(int x) {
+    return X*X;
+}
+
 }
